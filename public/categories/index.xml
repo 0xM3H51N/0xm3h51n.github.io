@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>0xm3h51n.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>m3h51n@protonmail.com (0xM3H51N)</managingEditor>
+    <webMaster>m3h51n@protonmail.com (0xM3H51N)</webMaster>
+    <copyright>© 2024 0xM3H51N</copyright>
+    <atom:link href="0xm3h51n.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

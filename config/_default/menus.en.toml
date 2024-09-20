@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Malware Analysis"
+pageRef = "Malware Analysis"
+identifier = "ZPd1IHBUfe"
+weight = 1
+
+[[main]]
+name = "CTFs"
+pageRef = "CTFs"
+identifier = "RdI5aoNEwV"
+weight = 2
+
+[[footer]]
+none = "none"

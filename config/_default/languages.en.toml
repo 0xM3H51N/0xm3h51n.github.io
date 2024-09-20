@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = ""
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Malware Analysis Reverse Engineering and CTF writeups"
+logo = "logo.png"
+secondaryLogo = "favicon.ico"
+author = { name = "0xM3H51N", headline = "Malware Analyst & Reverse Engineer", email = "m3h51n@protonmail.com", links = [ { github = "https://github.com/0xm3h51n" }, { email = "mailto:m3h51n@protonmail.com" }, { twitter = "https://x.com/0xm3h51n" } ], image = "eagle4.png" }

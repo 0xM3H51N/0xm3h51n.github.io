@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worm on </title>
+    <link>0xm3h51n.github.io/tags/worm/</link>
+    <description>Recent content in Worm on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>m3h51n@protonmail.com (0xM3H51N)</managingEditor>
+    <webMaster>m3h51n@protonmail.com (0xM3H51N)</webMaster>
+    <copyright>© 2024 0xM3H51N</copyright>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="0xm3h51n.github.io/tags/worm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing Eternity wrom malware (Eternity Group)</title>
+      <link>0xm3h51n.github.io/malware-analysis/1725507515535-analyzing-eternity-worm-malware/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>m3h51n@protonmail.com (0xM3H51N)</author>
+      <guid>0xm3h51n.github.io/malware-analysis/1725507515535-analyzing-eternity-worm-malware/</guid>
+      <description>Artifacts: # Eternity Worm Stage 1: # Static Analysis: # This sample of Eternity Worm has an icon of an image to deceive naïve users especially if the file extension was hidden, and it&amp;rsquo;s a good trick because further down the analysis we see that after running the assumed to be an image (malware) it will run an image from its resources to hide its execution:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="0xm3h51n.github.io/malware-analysis/1725507515535-analyzing-eternity-worm-malware/feature_wrom.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
